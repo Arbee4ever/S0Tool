@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "S0Tool.kicad_pro",
+    "filename": "S0-PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -528,7 +528,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "Gerbers/V1.0/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -668,8 +668,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "S0Tool.kicad_sch",
-        "name": "Root",
+        "filename": "S0-PCB.kicad_sch",
+        "name": "S0-PCB",
         "uuid": "69e6ddc3-5e76-4fc8-9734-e39f7de06724"
       }
     ],

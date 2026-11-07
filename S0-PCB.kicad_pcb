@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Gerbers/")
+			(outputdirectory "Gerbers/V1.0/")
 		)
 	)
 	(footprint "CAD_Footprint:Wortmarke"

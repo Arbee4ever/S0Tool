@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "10.0.8-1.fc45"
     },
-    "CreationDate": "2026-11-07T01:17:54+01:00"
+    "CreationDate": "2026-11-07T13:14:41+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "S0Tool",
-      "GUID": "5330546f-6f6c-42e6-9b69-6361645f7063",
+      "Name": "S0-PCB",
+      "GUID": "53302d50-4342-42e6-9b69-6361645f7063",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "S0Tool-F_Cu.gbr",
+      "Path": "S0-PCB-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "S0Tool-B_Cu.gbr",
+      "Path": "S0-PCB-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "S0Tool-F_Paste.gbr",
+      "Path": "S0-PCB-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "S0Tool-B_Paste.gbr",
+      "Path": "S0-PCB-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "S0Tool-F_Silkscreen.gbr",
+      "Path": "S0-PCB-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "S0Tool-B_Silkscreen.gbr",
+      "Path": "S0-PCB-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "S0Tool-F_Mask.gbr",
+      "Path": "S0-PCB-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "S0Tool-B_Mask.gbr",
+      "Path": "S0-PCB-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "S0Tool-Edge_Cuts.gbr",
+      "Path": "S0-PCB-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
